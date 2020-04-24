@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bbc35242-31f1-4242-92d5-bb13464da1fa" name="Default Changelist" comment="" />
+    <list default="true" id="bbc35242-31f1-4242-92d5-bb13464da1fa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/solutions2.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,7 +15,13 @@
       <executable />
     </execution>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1awADSjRLjMh4egfUcSc5qgakpz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -21,7 +30,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
   </component>
   <component name="SvnConfiguration">
@@ -41,6 +50,7 @@
       <workItem from="1587671724936" duration="3483000" />
       <workItem from="1587706315065" duration="116000" />
       <workItem from="1587706517350" duration="22000" />
+      <workItem from="1587707096594" duration="3246000" />
     </task>
     <servers />
   </component>
@@ -53,10 +63,10 @@
     </state>
     <state x="1038" y="297" width="424" height="484" key="FileChooserDialogImpl/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1587658224155" />
     <state x="1038" y="1377" key="FileChooserDialogImpl/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1587706537693" />
-    <state x="755" y="1536" width="399" height="149" key="NewPhpFileDialog" timestamp="1587673651178">
+    <state x="755" y="1536" width="399" height="149" key="NewPhpFileDialog" timestamp="1587710415887">
       <screen x="0" y="1080" width="1920" height="1080" />
     </state>
-    <state x="755" y="1536" width="399" height="149" key="NewPhpFileDialog/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1587673651178" />
+    <state x="755" y="1536" width="399" height="149" key="NewPhpFileDialog/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1587710415887" />
     <state x="449" y="1246" key="SettingsEditor" timestamp="1587636217434">
       <screen x="0" y="1080" width="1920" height="1080" />
     </state>
