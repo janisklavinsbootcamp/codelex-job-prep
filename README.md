@@ -1,7 +1,7 @@
 # codelex-job-prep
 
 Requirements:
-Code editor with PHP 7.0 and above.
+Code editor with PHP 7.4 and above.
 
 How to run php files:
 1. To run a file, navigate to a sub-directory.
