@@ -27,7 +27,9 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
@@ -57,10 +59,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1038" y="1377" width="424" height="484" key="FileChooserDialogImpl" timestamp="1587706537693">
-      <screen x="0" y="1080" width="1920" height="1080" />
+    <state x="1038" y="297" width="424" height="484" key="FileChooserDialogImpl" timestamp="1587715252279">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="1038" y="297" width="424" height="484" key="FileChooserDialogImpl/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1587658224155" />
+    <state x="1038" y="297" width="424" height="484" key="FileChooserDialogImpl/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1587715252279" />
     <state x="1038" y="1377" key="FileChooserDialogImpl/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1587706537693" />
     <state x="755" y="1536" width="399" height="149" key="NewPhpFileDialog" timestamp="1587710415887">
       <screen x="0" y="1080" width="1920" height="1080" />
